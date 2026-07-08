@@ -1,64 +1,64 @@
 # Raykel "RayRay"
 
-Frontend Engineer / UI Engineer focused on design-led web products.
+Ingeniero Frontend / Ingeniero UI enfocado en productos web guiados por diseño.
 
-I build interfaces that look intentional, load fast, and make the business flow easier to understand. My strongest zone is the intersection of visual design, frontend architecture, motion, and product clarity.
+Construyo interfaces que lucen intencionales, cargan rápido y hacen que el flujo del negocio sea más fácil de entender. Mi zona más fuerte es la intersección entre diseño visual, arquitectura frontend, motion y claridad de producto.
 
-I work under `RayRay-v0` on GitHub. Diago is the public/legal face of our team brand; this profile is mine.
+Trabajo bajo `RayRay-v0` en GitHub.
 
-My current public work is self-initiated. These are not paid client case studies; they are demos I built to prove skill, sharpen product judgment, and earn real hiring opportunities.
+Mi trabajo público actual es por iniciativa propia. No son casos de estudio de clientes pagados; son demos que construí para demostrar habilidades, afinar criterio de producto y ganar oportunidades reales de contratación.
 
-## What I Do
+## Lo Que Hago
 
-- Design and build landing pages, portfolios, catalogs, and ecommerce frontends.
-- Turn rough business ideas into structured UI, content hierarchy, and working flows.
-- Use motion, 3D, and scroll effects when they improve the product, not as decoration.
-- Connect frontends with checkout, WhatsApp funnels, APIs, payments, realtime updates, and deploy pipelines.
-- Keep content, components, and data separated so projects can be maintained without breaking the UI.
+- Diseño y construyo landing pages, portfolios, catálogos y frontends de ecommerce.
+- Convierto ideas de negocio en bruto en UI estructurada, jerarquía de contenido y flujos funcionales.
+- Uso motion, 3D y efectos de scroll cuando mejoran el producto, no como decoración.
+- Conecto frontends con checkout, embudos de WhatsApp, APIs, pagos, actualizaciones en tiempo real y pipelines de despliegue.
+- Mantengo contenido, componentes y datos separados para que los proyectos se puedan mantener sin romper la UI.
 
-## Core Stack
+## Stack Principal
 
 React, Next.js, Vite, TypeScript, Tailwind CSS, shadcn/ui, Framer Motion, GSAP, Three.js, React Three Fiber, Redux Toolkit, Socket.io, Stripe, Enzona, i18n, JSON-LD, Vercel.
 
-## Selected Work
+## Trabajo Seleccionado
 
-| Project | What it proves | Stack | Live |
-|---|---|---|---|
-| Aurora | Immersive restaurant experience with visual storytelling, smooth scroll, and GSAP-driven motion without hiding essential content. | Next.js, React, GSAP, Lenis, Tailwind | [Open](https://aurora-restaurante.vercel.app/) |
-| Tienda Premium | Commercial ecommerce frontend with catalog, cart, checkout integrations, realtime updates, and an AI shopping layer. | Next.js, React, Redux Toolkit, Stripe, Enzona, Socket.io | [Open](https://e-commerce-frontend-xi-sepia.vercel.app/) |
-| Kuro Atelier | 3D portfolio for a creative brand, using WebGL to create visual differentiation while keeping navigation clear. | React, Vite, Three.js, React Three Fiber, Framer Motion | [Open](https://landing-tattoo.vercel.app/) |
-| Arca Ilary | Bilingual catering site with structured SEO and a WhatsApp quote funnel that sends complete order context. | React, Vite, i18next, JSON-LD, WhatsApp funnel | [Open](https://catering-landing-sigma.vercel.app/) |
-| Renovables Cuba | Product catalog for solar and backup energy products with multi-currency pricing and WhatsApp checkout. | React, Vite, TypeScript, catalog UI, WhatsApp checkout | [Open](https://renovables-cuba-frontend.vercel.app/) |
-| Ritmo Habana | Community landing page built around clear schedules, pricing, responsive sections, and data-driven content. | React, Vite, TypeScript, Tailwind, shadcn/ui | [Open](https://ritmo-habana.vercel.app/) |
+| Proyecto        | Qué demuestra                                                                                                                                  | Stack                                                      | En vivo                                                   |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | --------------------------------------------------------- |
+| Aurora          | Experiencia inmersiva de restaurante con narrativa visual, scroll suave y motion con GSAP sin ocultar contenido esencial.                      | Next.js, React, GSAP, Lenis, Tailwind                      | [Abrir](https://aurora-restaurante.vercel.app/)           |
+| Tienda Premium  | Frontend de ecommerce comercial con catálogo, carrito, integraciones de checkout, actualizaciones en tiempo real y una capa de compras con IA. | Next.js, React, Redux Toolkit, Stripe, Enzona, Socket.io   | [Abrir](https://e-commerce-frontend-xi-sepia.vercel.app/) |
+| Kuro Atelier    | Portfolio 3D para una marca creativa, usando WebGL para crear diferenciación visual manteniendo la navegación clara.                           | React, Vite, Three.js, React Three Fiber, Framer Motion    | [Abrir](https://landing-tattoo.vercel.app/)               |
+| Arca Ilary      | Sitio de catering bilingüe con SEO estructurado y un embudo de cotización por WhatsApp que envía contexto completo del pedido.                 | React, Vite, i18next, JSON-LD, embudo WhatsApp             | [Abrir](https://catering-landing-sigma.vercel.app/)       |
+| Renovables Cuba | Catálogo de productos de energía solar y respaldo con precios multidivisa y checkout por WhatsApp.                                             | React, Vite, TypeScript, UI de catálogo, checkout WhatsApp | [Abrir](https://renovables-cuba-frontend.vercel.app/)     |
+| Ritmo Habana    | Landing page comunitaria construida alrededor de horarios claros, precios, secciones responsivas y contenido basado en datos.                  | React, Vite, TypeScript, Tailwind, shadcn/ui               | [Abrir](https://ritmo-habana.vercel.app/)                 |
 
-## Remote Work Conditions
+## Condiciones de Trabajo Remoto
 
-- Based in Havana, Cuba.
-- Constant electricity at my workspace under normal conditions.
-- Internet access available; reliability can still depend on national electric system conditions.
-- Available for remote freelance work with partial, agreed schedules.
-- Best fit: scoped frontend/UI work, landing pages, portfolio sites, ecommerce frontends, and design-to-code implementation.
+- Basado en La Habana, Cuba.
+- Electricidad constante en mi espacio de trabajo bajo condiciones normales.
+- Acceso a internet disponible; la fiabilidad aún puede depender de las condiciones del sistema eléctrico nacional.
+- Disponible para trabajo freelance remoto con horarios parciales y acordados.
+- Mejor encaje: trabajo frontend/UI con alcance definido, landing pages, sitios portfolio, frontends de ecommerce e implementación de diseño a código.
 
-## Engineering Taste
+## Criterio de Ingeniería
 
-- A good interface explains the offer before it tries to impress.
-- Motion should guide attention or clarify state. If it only adds noise, it should be removed.
-- Frontend is not just styling. It is information architecture, state, accessibility, performance, and maintainability.
-- I prefer small, clear systems: typed data, reusable components, predictable layout, and deployable demos.
-- I do not use a stack to inflate a profile. I use the tool that fits the product.
+- Una buena interfaz explica la oferta antes de intentar impresionar.
+- El motion debe guiar la atención o clarificar estados. Si solo añade ruido, debe eliminarse.
+- El frontend no es solo estilos. Es arquitectura de información, estado, accesibilidad, rendimiento y mantenibilidad.
+- Prefiero sistemas pequeños y claros: datos tipados, componentes reutilizables, layout predecible y demos desplegables.
+- No uso un stack para inflar un perfil. Uso la herramienta que encaja con el producto.
 
-## Profile Data To Keep Consistent
+## Datos de Perfil Para Mantener Consistentes
 
-Use this when filling GitHub, CuCoders, or hiring profiles:
+Usa esto al llenar perfiles de GitHub, CuCoders o plataformas de contratación:
 
-- Name: Raykel
+- Nombre: Raykel
 - Handle: RayRay / `RayRay-v0`
-- Role: Frontend Engineer / UI Engineer
-- Location: Havana, Cuba
-- Company/team: MaRaBana-Tec
-- Website: team portfolio or personal portfolio when published
+- Rol: Ingeniero Frontend / Ingeniero UI
+- Ubicación: La Habana, Cuba
+- Empresa/equipo: MaRaBana-Tec
+- Sitio web: portfolio de equipo o portfolio personal cuando se publique
 - GitHub: [github.com/RayRay-v0](https://github.com/RayRay-v0)
 
-## Contact
+## Contacto
 
 - GitHub: [RayRay-v0](https://github.com/RayRay-v0)
