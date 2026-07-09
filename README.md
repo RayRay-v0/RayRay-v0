@@ -1,64 +1,90 @@
-# Raykel "RayRay"
+# Raykel “RayRay”
 
-Ingeniero Frontend / Ingeniero UI enfocado en productos web guiados por diseño.
+**Ingeniero en Telecomunicaciones y Electrónica enfocado en Frontend/UI Engineering.**
 
-Construyo interfaces que lucen intencionales, cargan rápido y hacen que el flujo del negocio sea más fácil de entender. Mi zona más fuerte es la intersección entre diseño visual, arquitectura frontend, motion y claridad de producto.
+Construyo interfaces web rápidas, claras y orientadas al diseño usando React, TypeScript, motion y arquitectura frontend enfocada en producto.
 
-Trabajo bajo `RayRay-v0` en GitHub.
+Mi zona más fuerte está en la intersección entre diseño visual, ingeniería frontend, interacción, rendimiento y claridad de negocio.
 
-Mi trabajo público actual es por iniciativa propia. No son casos de estudio de clientes pagados; son demos que construí para demostrar habilidades, afinar criterio de producto y ganar oportunidades reales de contratación.
+---
 
-## Lo Que Hago
+## Qué construyo
 
-- Diseño y construyo landing pages, portfolios, catálogos y frontends de ecommerce.
-- Convierto ideas de negocio en bruto en UI estructurada, jerarquía de contenido y flujos funcionales.
-- Uso motion, 3D y efectos de scroll cuando mejoran el producto, no como decoración.
-- Conecto frontends con checkout, embudos de WhatsApp, APIs, pagos, actualizaciones en tiempo real y pipelines de despliegue.
-- Mantengo contenido, componentes y datos separados para que los proyectos se puedan mantener sin romper la UI.
+* Landing pages, portafolios, interfaces de catálogo y frontends ecommerce.
+* Sistemas UI enfocados en producto que convierten ideas de negocio poco definidas en flujos de usuario claros.
+* Interfaces responsive con contenido estructurado, componentes reutilizables y capas de datos mantenibles.
+* Motion, 3D e interacciones basadas en scroll cuando mejoran la claridad, la atención o la percepción de calidad.
+* Integraciones frontend con flujos de checkout, embudos de WhatsApp, APIs, pagos, actualizaciones en tiempo real y pipelines de despliegue.
 
-## Stack Principal
+---
 
-React, Next.js, Vite, TypeScript, Tailwind CSS, shadcn/ui, Framer Motion, GSAP, Three.js, React Three Fiber, Redux Toolkit, Socket.io, Stripe, Enzona, i18n, JSON-LD, Vercel.
+## Stack principal
 
-## Trabajo Seleccionado
+**Frontend:** React, Next.js, Vite, TypeScript
+**UI:** Tailwind CSS, shadcn/ui, sistemas responsive, arquitectura de componentes
+**Motion / 3D:** Framer Motion, GSAP, Three.js, React Three Fiber
+**Estado / Datos:** Redux Toolkit, Socket.io, i18n, JSON-LD
+**Comercio / Deploy:** Stripe, Enzona, flujos de checkout por WhatsApp, Vercel
 
-| Proyecto        | Qué demuestra                                                                                                                                  | Stack                                                      | En vivo                                                   |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | --------------------------------------------------------- |
-| Aurora          | Experiencia inmersiva de restaurante con narrativa visual, scroll suave y motion con GSAP sin ocultar contenido esencial.                      | Next.js, React, GSAP, Lenis, Tailwind                      | [Abrir](https://aurora-restaurante.vercel.app/)           |
-| Tienda Premium  | Frontend de ecommerce comercial con catálogo, carrito, integraciones de checkout, actualizaciones en tiempo real y una capa de compras con IA. | Next.js, React, Redux Toolkit, Stripe, Enzona, Socket.io   | [Abrir](https://e-commerce-frontend-xi-sepia.vercel.app/) |
-| Kuro Atelier    | Portfolio 3D para una marca creativa, usando WebGL para crear diferenciación visual manteniendo la navegación clara.                           | React, Vite, Three.js, React Three Fiber, Framer Motion    | [Abrir](https://landing-tattoo.vercel.app/)               |
-| Arca Ilary      | Sitio de catering bilingüe con SEO estructurado y un embudo de cotización por WhatsApp que envía contexto completo del pedido.                 | React, Vite, i18next, JSON-LD, embudo WhatsApp             | [Abrir](https://catering-landing-sigma.vercel.app/)       |
-| Renovables Cuba | Catálogo de productos de energía solar y respaldo con precios multidivisa y checkout por WhatsApp.                                             | React, Vite, TypeScript, UI de catálogo, checkout WhatsApp | [Abrir](https://renovables-cuba-frontend.vercel.app/)     |
-| Ritmo Habana    | Landing page comunitaria construida alrededor de horarios claros, precios, secciones responsivas y contenido basado en datos.                  | React, Vite, TypeScript, Tailwind, shadcn/ui               | [Abrir](https://ritmo-habana.vercel.app/)                 |
+---
 
-## Condiciones de Trabajo Remoto
+## Trabajos seleccionados
 
-- Basado en La Habana, Cuba.
-- Electricidad constante en mi espacio de trabajo bajo condiciones normales.
-- Acceso a internet disponible; la fiabilidad aún puede depender de las condiciones del sistema eléctrico nacional.
-- Disponible para trabajo freelance remoto con horarios parciales y acordados.
-- Mejor encaje: trabajo frontend/UI con alcance definido, landing pages, sitios portfolio, frontends de ecommerce e implementación de diseño a código.
+| Proyecto            | Qué demuestra                                                                                                                              | Stack                                                          | Live                                                      |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------- | --------------------------------------------------------- |
+| **Aurora**          | Experiencia inmersiva para restaurante con storytelling visual, scroll fluido y motion con GSAP sin ocultar el contenido esencial.         | Next.js, React, GSAP, Lenis, Tailwind                          | [Abrir](https://aurora-restaurante.vercel.app/)           |
+| **Tienda Premium**  | Frontend ecommerce comercial con catálogo, carrito, integraciones de checkout, actualizaciones en tiempo real y una capa de compra con IA. | Next.js, React, Redux Toolkit, Stripe, Enzona, Socket.io       | [Abrir](https://e-commerce-frontend-xi-sepia.vercel.app/) |
+| **Kuro Atelier**    | Portafolio 3D para una marca creativa usando WebGL como diferenciador visual sin sacrificar claridad en la navegación.                     | React, Vite, Three.js, React Three Fiber, Framer Motion        | [Abrir](https://landing-tattoo.vercel.app/)               |
+| **Arca Ilary**      | Sitio bilingüe de catering con SEO estructurado y un embudo de cotización por WhatsApp que envía el contexto completo del pedido.          | React, Vite, i18next, JSON-LD, embudo de WhatsApp              | [Abrir](https://catering-landing-sigma.vercel.app/)       |
+| **Renovables Cuba** | Catálogo de productos solares y de energía de respaldo con precios multidivisa y checkout por WhatsApp.                                    | React, Vite, TypeScript, UI de catálogo, checkout por WhatsApp | [Abrir](https://renovables-cuba-frontend.vercel.app/)     |
+| **Ritmo Habana**    | Landing page comunitaria construida alrededor de horarios claros, precios, secciones responsive y contenido basado en datos.               | React, Vite, TypeScript, Tailwind, shadcn/ui                   | [Abrir](https://ritmo-habana.vercel.app/)                 |
 
-## Criterio de Ingeniería
+---
 
-- Una buena interfaz explica la oferta antes de intentar impresionar.
-- El motion debe guiar la atención o clarificar estados. Si solo añade ruido, debe eliminarse.
-- El frontend no es solo estilos. Es arquitectura de información, estado, accesibilidad, rendimiento y mantenibilidad.
-- Prefiero sistemas pequeños y claros: datos tipados, componentes reutilizables, layout predecible y demos desplegables.
-- No uso un stack para inflar un perfil. Uso la herramienta que encaja con el producto.
+## Principios de ingeniería
 
-## Datos de Perfil Para Mantener Consistentes
+* Una buena interfaz explica la oferta antes de intentar impresionar.
+* El motion debe guiar la atención, aclarar estados o mejorar el flujo. Si solo añade ruido, debe eliminarse.
+* Frontend no es solo estilizar. Incluye arquitectura de información, estado, accesibilidad, rendimiento y mantenibilidad.
+* Prefiero sistemas pequeños y claros: datos tipados, componentes reutilizables, layouts predecibles y demos desplegables.
+* No uso un stack para inflar un perfil. Uso la herramienta que encaja con el producto.
 
-Usa esto al llenar perfiles de GitHub, CuCoders o plataformas de contratación:
+---
 
-- Nombre: Raykel
-- Handle: RayRay / `RayRay-v0`
-- Rol: Ingeniero Frontend / Ingeniero UI
-- Ubicación: La Habana, Cuba
-- Empresa/equipo: MaRaBana-Tec
-- Sitio web: portfolio de equipo o portfolio personal cuando se publique
-- GitHub: [github.com/RayRay-v0](https://github.com/RayRay-v0)
+## Background
+
+Soy Ingeniero en Telecomunicaciones y Electrónica, basado en La Habana, Cuba.
+
+Esa formación define cómo abordo el trabajo frontend: pensamiento sistémico, relación señal-ruido, fiabilidad, rendimiento y estructura técnica clara.
+
+Actualmente estoy enfocado en:
+
+* Frontend/UI engineering
+* Interfaces de producto
+* Landing pages y portafolios
+* Frontends ecommerce
+* Experiencias web impulsadas por motion
+* Implementación de diseño a código
+
+---
+
+## Disponibilidad
+
+Disponible para trabajo remoto freelance y part-time en frontend/UI con alcance definido.
+
+Mejor encaje:
+
+* Landing pages
+* Sitios de portafolio
+* Frontends ecommerce
+* Implementación UI
+* Arquitectura frontend
+* Refinamiento de motion e interacción
+* Demos de producto e interfaces MVP
+
+---
 
 ## Contacto
 
-- GitHub: [RayRay-v0](https://github.com/RayRay-v0)
+* GitHub: [RayRay-v0](https://github.com/RayRay-v0)
+* Equipo: **MaRaBana-Tec**
