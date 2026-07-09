@@ -103,66 +103,34 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<table>
-<tr>
-<td width="46%" valign="top">
 <a href="https://catering-landing-sigma.vercel.app/"><img src="./assets/projects/arca-ilary-card.webp" alt="Vista previa del proyecto Arca Ilary" width="100%" /></a>
-</td>
-<td width="54%" valign="top">
 <h3>Arca Ilary</h3>
-<p>Sitio bilingüe de catering con SEO estructurado y embudo de cotización por WhatsApp que envía el contexto completo del pedido.</p>
-<p>React · Vite · i18next · JSON-LD · Embudo de WhatsApp</p>
+<p>Sitio bilingüe de catering con SEO estructurado y embudo de cotización por WhatsApp.</p>
+<p>React · Vite · i18next · JSON-LD</p>
 <p><a href="https://catering-landing-sigma.vercel.app/">Demo en vivo ↗</a></p>
 </td>
-</tr>
-</table>
-</td>
 <td width="50%" valign="top">
-<table>
-<tr>
-<td width="46%" valign="top">
 <a href="https://ritmo-habana.vercel.app/"><img src="./assets/projects/ritmo-habana-card.webp" alt="Vista previa del proyecto Ritmo Habana" width="100%" /></a>
-</td>
-<td width="54%" valign="top">
 <h3>Ritmo Habana</h3>
-<p>Landing page comunitaria construida alrededor de horarios claros, precios, secciones responsive y contenido basado en datos.</p>
-<p>React · Vite · TypeScript · Tailwind · shadcn/ui</p>
+<p>Landing page comunitaria con horarios claros, precios, secciones responsive y contenido basado en datos.</p>
+<p>React · Vite · TypeScript · Tailwind</p>
 <p><a href="https://ritmo-habana.vercel.app/">Demo en vivo ↗</a></p>
 </td>
 </tr>
-</table>
-</td>
-</tr>
 <tr>
 <td width="50%" valign="top">
-<table>
-<tr>
-<td width="46%" valign="top">
 <a href="https://aurora-restaurante.vercel.app/"><img src="./assets/projects/aurora-card.webp" alt="Vista previa del proyecto Aurora" width="100%" /></a>
-</td>
-<td width="54%" valign="top">
 <h3>Aurora</h3>
 <p>Experiencia inmersiva para restaurante con storytelling visual, scroll fluido y motion guiado por UX.</p>
 <p>Next.js · React · GSAP · Lenis · Tailwind</p>
 <p><a href="https://aurora-restaurante.vercel.app/">Demo en vivo ↗</a></p>
 </td>
-</tr>
-</table>
-</td>
 <td width="50%" valign="top">
-<table>
-<tr>
-<td width="46%" valign="top">
 <a href="https://landing-tattoo.vercel.app/"><img src="./assets/projects/kuro-atelier-card.webp" alt="Vista previa del proyecto Kuro Atelier" width="100%" /></a>
-</td>
-<td width="54%" valign="top">
 <h3>Kuro Atelier</h3>
 <p>Portafolio 3D para una marca creativa usando WebGL como diferenciador visual sin sacrificar claridad de navegación.</p>
-<p>React · Vite · Three.js · React Three Fiber · Framer Motion</p>
+<p>React · Vite · Three.js · R3F · Framer Motion</p>
 <p><a href="https://landing-tattoo.vercel.app/">Demo en vivo ↗</a></p>
-</td>
-</tr>
-</table>
 </td>
 </tr>
 </table>
