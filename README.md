@@ -95,7 +95,7 @@
 <tr>
 <td colspan="2" width="100%" valign="top" align="left">
 <a href="https://renovables-cuba-frontend.vercel.app/"><img src="./assets/projects/renovables-cuba-cover.webp" alt="Vista previa del proyecto Renovables Cuba" width="100%" /></a>
-<h3>Renovables Cuba</h3>
+<p><strong>Renovables Cuba</strong></p>
 <p>Catálogo de productos solares y energía de respaldo con precios multidivisa y flujo de checkout por WhatsApp.</p>
 <p><strong>React</strong> · <strong>Vite</strong> · <strong>TypeScript</strong> · UI de catálogo · Checkout por WhatsApp</p>
 <p><a href="https://renovables-cuba-frontend.vercel.app/">Demo en vivo ↗</a></p>
@@ -103,15 +103,15 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://catering-landing-sigma.vercel.app/"><img src="./assets/projects/arca-ilary-card.webp" alt="Vista previa del proyecto Arca Ilary" width="100%" /></a>
-<h3>Arca Ilary</h3>
+<a href="https://catering-landing-sigma.vercel.app/"><img src="./assets/projects/arca-ilary-card-thumb.webp" alt="Vista previa del proyecto Arca Ilary" width="100%" /></a>
+<p><strong>Arca Ilary</strong></p>
 <p>Sitio bilingüe de catering con SEO estructurado y embudo de cotización por WhatsApp.</p>
 <p>React · Vite · i18next · JSON-LD</p>
 <p><a href="https://catering-landing-sigma.vercel.app/">Demo en vivo ↗</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://ritmo-habana.vercel.app/"><img src="./assets/projects/ritmo-habana-card.webp" alt="Vista previa del proyecto Ritmo Habana" width="100%" /></a>
-<h3>Ritmo Habana</h3>
+<a href="https://ritmo-habana.vercel.app/"><img src="./assets/projects/ritmo-habana-card-thumb.webp" alt="Vista previa del proyecto Ritmo Habana" width="100%" /></a>
+<p><strong>Ritmo Habana</strong></p>
 <p>Landing page comunitaria con horarios claros, precios, secciones responsive y contenido basado en datos.</p>
 <p>React · Vite · TypeScript · Tailwind</p>
 <p><a href="https://ritmo-habana.vercel.app/">Demo en vivo ↗</a></p>
@@ -119,15 +119,15 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://aurora-restaurante.vercel.app/"><img src="./assets/projects/aurora-card.webp" alt="Vista previa del proyecto Aurora" width="100%" /></a>
-<h3>Aurora</h3>
+<a href="https://aurora-restaurante.vercel.app/"><img src="./assets/projects/aurora-card-thumb.webp" alt="Vista previa del proyecto Aurora" width="100%" /></a>
+<p><strong>Aurora</strong></p>
 <p>Experiencia inmersiva para restaurante con storytelling visual, scroll fluido y motion guiado por UX.</p>
 <p>Next.js · React · GSAP · Lenis · Tailwind</p>
 <p><a href="https://aurora-restaurante.vercel.app/">Demo en vivo ↗</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://landing-tattoo.vercel.app/"><img src="./assets/projects/kuro-atelier-card.webp" alt="Vista previa del proyecto Kuro Atelier" width="100%" /></a>
-<h3>Kuro Atelier</h3>
+<a href="https://landing-tattoo.vercel.app/"><img src="./assets/projects/kuro-atelier-card-thumb.webp" alt="Vista previa del proyecto Kuro Atelier" width="100%" /></a>
+<p><strong>Kuro Atelier</strong></p>
 <p>Portafolio 3D para una marca creativa usando WebGL como diferenciador visual sin sacrificar claridad de navegación.</p>
 <p>React · Vite · Three.js · R3F · Framer Motion</p>
 <p><a href="https://landing-tattoo.vercel.app/">Demo en vivo ↗</a></p>
