@@ -164,15 +164,19 @@ Actualmente estoy enfocado en:
 
 ---
 
-## GitHub Stats
+## Actividad en GitHub
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RayRay-v0&theme=tokyonight" alt="Resumen de actividad de GitHub de RayRay-v0" />
+  <a href="https://github.com/RayRay-v0">
+    <img src="https://img.shields.io/badge/GitHub-Ver_perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver perfil de GitHub de RayRay-v0" />
+  </a>
+  <a href="https://github.com/RayRay-v0?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositorios-Ver_código-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorios de RayRay-v0" />
+  </a>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RayRay-v0&theme=tokyonight" alt="Estadísticas de GitHub de RayRay-v0" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RayRay-v0&theme=tokyonight" alt="Lenguajes principales de RayRay-v0" />
+  El código público acompaña demos desplegadas, frontends de producto y experimentos visuales enfocados en UI, motion y claridad comercial.
 </p>
 
 ---
