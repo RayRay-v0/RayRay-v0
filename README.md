@@ -167,8 +167,12 @@ Actualmente estoy enfocado en:
 ## GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RayRay-v0&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayRay-v0&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RayRay-v0&theme=tokyonight" alt="Resumen de actividad de GitHub de RayRay-v0" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RayRay-v0&theme=tokyonight" alt="Estadísticas de GitHub de RayRay-v0" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RayRay-v0&theme=tokyonight" alt="Lenguajes principales de RayRay-v0" />
 </p>
 
 ---
