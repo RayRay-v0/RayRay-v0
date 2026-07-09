@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  Construyo interfaces web rápidas, claras y orientadas al diseño usando React, Next.js, TypeScript, motion y arquitectura frontend enfocada en producto.
+  Construyo interfaces web rápidas, claras y bien diseñadas con React, Next.js, TypeScript y motion cuando aporta al producto.
 </p>
 
 <p align="center">
@@ -35,21 +35,21 @@
   <tr>
     <td width="50%">
       <strong>Frontends de producto</strong><br/>
-      Landing pages, portafolios, catálogos y frontends ecommerce construidos alrededor de claridad, velocidad y conversión.
+      Landing pages, portafolios, catálogos y frontends ecommerce pensados para explicar bien una oferta y facilitar la acción del usuario.
     </td>
     <td width="50%">
       <strong>Ingeniería UI</strong><br/>
-      Implementación de diseño a código, componentes reutilizables, sistemas responsive y arquitectura frontend mantenible.
+      Paso diseños a interfaces funcionales con componentes reutilizables, layouts responsive y una estructura frontend fácil de mantener.
     </td>
   </tr>
   <tr>
     <td width="50%">
       <strong>Motion e interacción</strong><br/>
-      Uso GSAP, Framer Motion y efectos basados en scroll cuando ayudan a guiar la atención, aclarar estados o mejorar la percepción de calidad.
+      Uso GSAP, Framer Motion y efectos de scroll cuando ayudan a orientar al usuario, marcar estados o mejorar la navegación.
     </td>
     <td width="50%">
       <strong>Flujos comerciales</strong><br/>
-      Checkouts, embudos de WhatsApp, integraciones de pago, actualizaciones en tiempo real y demos desplegables.
+      Checkouts, embudos de WhatsApp, integraciones de pago, actualizaciones en tiempo real y demos desplegadas para validar el producto.
     </td>
   </tr>
 </table>
@@ -88,7 +88,7 @@
 ## Trabajos destacados
 
 <p align="center">
-  Interfaces web orientadas a claridad comercial, experiencia visual y conversión real.
+  Proyectos web construidos para usuarios reales, clientes y flujos de negocio concretos.
 </p>
 
 <table>
@@ -96,7 +96,7 @@
 <td colspan="2" width="100%" valign="top" align="left">
 <a href="https://renovables-cuba-frontend.vercel.app/"><img src="./assets/projects/renovables-cuba-cover.webp" alt="Vista previa del proyecto Renovables Cuba" width="100%" /></a>
 <p><strong>Renovables Cuba</strong></p>
-<p>Catálogo de productos solares y energía de respaldo con precios multidivisa y flujo de checkout por WhatsApp.</p>
+<p>Catálogo de productos solares y energía de respaldo con precios multidivisa, navegación por equipos y checkout por WhatsApp.</p>
 <p><strong>React</strong> · <strong>Vite</strong> · <strong>TypeScript</strong> · UI de catálogo · Checkout por WhatsApp</p>
 <p><a href="https://renovables-cuba-frontend.vercel.app/">Demo en vivo ↗</a></p>
 </td>
@@ -105,14 +105,14 @@
 <td width="50%" valign="top">
 <a href="https://catering-landing-sigma.vercel.app/"><img src="./assets/projects/arca-ilary-card-thumb.webp" alt="Vista previa del proyecto Arca Ilary" width="100%" /></a>
 <p><strong>Arca Ilary</strong></p>
-<p>Sitio bilingüe de catering con SEO estructurado y embudo de cotización por WhatsApp.</p>
+<p>Sitio bilingüe para catering, con SEO estructurado y un flujo de cotización que lleva el pedido a WhatsApp.</p>
 <p>React · Vite · i18next · JSON-LD</p>
 <p><a href="https://catering-landing-sigma.vercel.app/">Demo en vivo ↗</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://ritmo-habana.vercel.app/"><img src="./assets/projects/ritmo-habana-card-thumb.webp" alt="Vista previa del proyecto Ritmo Habana" width="100%" /></a>
 <p><strong>Ritmo Habana</strong></p>
-<p>Landing page comunitaria con horarios claros, precios, secciones responsive y contenido basado en datos.</p>
+<p>Landing para clases de salsa con horarios, precios, secciones responsive y contenido organizado desde datos.</p>
 <p>React · Vite · TypeScript · Tailwind</p>
 <p><a href="https://ritmo-habana.vercel.app/">Demo en vivo ↗</a></p>
 </td>
@@ -121,14 +121,14 @@
 <td width="50%" valign="top">
 <a href="https://aurora-restaurante.vercel.app/"><img src="./assets/projects/aurora-card-thumb.webp" alt="Vista previa del proyecto Aurora" width="100%" /></a>
 <p><strong>Aurora</strong></p>
-<p>Experiencia inmersiva para restaurante con storytelling visual, scroll fluido y motion guiado por UX.</p>
+<p>Experiencia para restaurante con narrativa visual, scroll fluido y animaciones pensadas para acompañar la navegación.</p>
 <p>Next.js · React · GSAP · Lenis · Tailwind</p>
 <p><a href="https://aurora-restaurante.vercel.app/">Demo en vivo ↗</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://landing-tattoo.vercel.app/"><img src="./assets/projects/kuro-atelier-card-thumb.webp" alt="Vista previa del proyecto Kuro Atelier" width="100%" /></a>
 <p><strong>Kuro Atelier</strong></p>
-<p>Portafolio 3D para una marca creativa usando WebGL como diferenciador visual sin sacrificar claridad de navegación.</p>
+<p>Portafolio 3D para un estudio creativo, con WebGL, estética oscura y navegación simple.</p>
 <p>React · Vite · Three.js · R3F · Framer Motion</p>
 <p><a href="https://landing-tattoo.vercel.app/">Demo en vivo ↗</a></p>
 </td>
@@ -139,11 +139,11 @@
 
 ## Criterio de ingeniería
 
-- Una buena interfaz explica la oferta antes de intentar impresionar.
-- El motion debe guiar la atención, aclarar estados o mejorar el flujo. Si solo añade ruido, debe eliminarse.
-- Frontend no es solo estilizar: incluye arquitectura de información, estado, accesibilidad, rendimiento y mantenibilidad.
+- Una buena interfaz debe explicar la oferta antes de intentar impresionar.
+- El motion tiene que ayudar a entender, navegar o decidir. Si solo añade ruido, sobra.
+- Frontend no es solo estilizar: también es arquitectura de información, estado, accesibilidad, rendimiento y mantenibilidad.
 - Prefiero sistemas pequeños y claros: datos tipados, componentes reutilizables, layouts predecibles y demos desplegables.
-- No uso un stack para inflar un perfil. Uso la herramienta que encaja con el producto.
+- El stack se elige por el problema, no por lo bien que se ve en una lista.
 
 ---
 
@@ -151,7 +151,7 @@
 
 Soy Ingeniero en Telecomunicaciones y Electrónica, basado en La Habana, Cuba.
 
-Esa formación define cómo abordo el trabajo frontend: pensamiento sistémico, relación señal-ruido, fiabilidad, rendimiento y estructura técnica clara.
+Esa formación influye en cómo trabajo frontend: estructura, criterio técnico, relación señal-ruido, rendimiento y atención a los detalles.
 
 Actualmente estoy enfocado en:
 
@@ -178,4 +178,4 @@ Actualmente estoy enfocado en:
 - GitHub: [RayRay-v0](https://github.com/RayRay-v0)
 - Equipo: **MaRaBana-Tec**
 - Ubicación: La Habana, Cuba
-- Disponible para trabajo remoto freelance y part-time en Frontend/UI con alcance definido.
+- Disponible para proyectos remotos freelance y part-time en Frontend/UI con alcance definido.
