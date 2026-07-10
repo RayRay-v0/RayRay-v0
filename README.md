@@ -16,13 +16,13 @@
   <a href="https://github.com/RayRay-v0">
     <img src="https://img.shields.io/badge/GitHub-RayRay--v0-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="TU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/raykel-vergara-ortiz-97459b421/?locale=en-US">
     <img src="https://img.shields.io/badge/LinkedIn-Raykel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="TU_PORTFOLIO">
     <img src="https://img.shields.io/badge/Portfolio-Visitar-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:TU_EMAIL">
+  <a href="mailto:rayray.vo99@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
