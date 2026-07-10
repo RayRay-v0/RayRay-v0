@@ -1,0 +1,203 @@
+{
+  "name": "Raykel Ray",
+  "handle": "RayRay-v0",
+  "displayName": "Raykel \"RayRay\"",
+  "headline": "Frontend/UI Engineer",
+  "location": {
+    "city": "La Habana",
+    "country": "Cuba"
+  },
+  "github": {
+    "profileUrl": "https://github.com/RayRay-v0",
+    "profileReadmeUrl": "https://github.com/RayRay-v0/RayRay-v0"
+  },
+  "summary": "Ingeniero en Telecomunicaciones y Electronica enfocado en Frontend/UI Engineering. Construye interfaces web rapidas, claras y bien disenadas con React, Next.js, TypeScript y motion cuando aporta al producto.",
+  "availability": "Disponible para proyectos remotos freelance y part-time en Frontend/UI con alcance definido.",
+  "focusAreas": [
+    "Frontend/UI Engineering",
+    "Interfaces de producto",
+    "Landing pages comerciales",
+    "Portafolios",
+    "Frontends ecommerce",
+    "Experiencias web con motion",
+    "Implementacion de diseno a codigo"
+  ],
+  "principles": [
+    "Una buena interfaz debe explicar la oferta antes de intentar impresionar.",
+    "El motion tiene que ayudar a entender, navegar o decidir.",
+    "Frontend incluye arquitectura de informacion, estado, accesibilidad, rendimiento y mantenibilidad.",
+    "El stack se elige por el problema, no por apariencia en una lista."
+  ],
+  "skills": {
+    "frontend": [
+      "React",
+      "Next.js",
+      "Vite",
+      "TypeScript",
+      "TanStack Start"
+    ],
+    "ui": [
+      "Tailwind CSS",
+      "shadcn/ui",
+      "Radix UI",
+      "lucide-react"
+    ],
+    "motionAnd3d": [
+      "GSAP",
+      "Framer Motion",
+      "Lenis",
+      "Three.js",
+      "React Three Fiber"
+    ],
+    "commerceAndData": [
+      "Redux Toolkit",
+      "React Query",
+      "Socket.io",
+      "i18n",
+      "JSON-LD",
+      "Stripe",
+      "WhatsApp checkout"
+    ],
+    "deployment": [
+      "Vercel",
+      "Netlify"
+    ]
+  },
+  "services": [
+    {
+      "id": "frontend-ui-engineering",
+      "name": "Frontend/UI Engineering",
+      "description": "Construccion de interfaces web claras, responsive y mantenibles con React, Next.js, Vite y TypeScript."
+    },
+    {
+      "id": "landing-pages",
+      "name": "Landing pages comerciales",
+      "description": "Paginas orientadas a explicar una oferta y convertir usuarios en contactos, reservas, cotizaciones o compras."
+    },
+    {
+      "id": "catalogs-ecommerce",
+      "name": "Catalogos y flujos ecommerce ligeros",
+      "description": "Catalogos con categorias, filtros, carrito y checkout por WhatsApp o formulario."
+    },
+    {
+      "id": "motion-interaction",
+      "name": "Motion e interaccion",
+      "description": "Animaciones con proposito usando GSAP, Framer Motion y scroll guiado."
+    },
+    {
+      "id": "webgl-3d",
+      "name": "Experiencias 3D y WebGL",
+      "description": "Escenas 3D y experiencias visuales con Three.js y React Three Fiber."
+    },
+    {
+      "id": "ui-audit",
+      "name": "Auditoria y mejora de interfaces existentes",
+      "description": "Diagnostico y correccion de problemas de UI, responsive, claridad y conversion."
+    }
+  ],
+  "projects": [
+    {
+      "id": "renovables-cuba",
+      "name": "Renovables Cuba",
+      "type": "Catalogo ecommerce / energia solar",
+      "demoUrl": "https://renovables-cuba-frontend.vercel.app/",
+      "localPath": "C:\\workbench\\- JAVI Project\\project",
+      "stack": [
+        "React",
+        "TanStack Start",
+        "TypeScript",
+        "Tailwind CSS",
+        "shadcn/ui",
+        "Vite"
+      ],
+      "summary": "Catalogo de soluciones solares y energia de respaldo para hogares en Cuba, con categorias, busqueda, carrito, precios multidivisa y solicitud por WhatsApp."
+    },
+    {
+      "id": "arca-ilary",
+      "name": "Arca Ilary",
+      "type": "Landing comercial / catering",
+      "demoUrl": "https://catering-landing-sigma.vercel.app/",
+      "localPath": "C:\\workbench\\- CATERING ALE\\project",
+      "stack": [
+        "React",
+        "Vite",
+        "TypeScript",
+        "Tailwind CSS",
+        "shadcn/ui",
+        "i18next",
+        "JSON-LD"
+      ],
+      "summary": "Sitio bilingue para catering cubano con narrativa visual, SEO estructurado y flujo de cotizacion por WhatsApp."
+    },
+    {
+      "id": "ritmo-habana",
+      "name": "Ritmo Habana",
+      "type": "Landing page / clases de baile",
+      "demoUrl": "https://ritmo-habana.vercel.app/",
+      "localPath": "C:\\workbench\\- SPMG",
+      "stack": [
+        "React",
+        "Vite",
+        "TypeScript",
+        "Tailwind CSS",
+        "shadcn/ui",
+        "Embla Carousel"
+      ],
+      "summary": "Landing para clases de salsa y baile popular cubano con horarios, precios, secciones responsive y contenido organizado desde datos."
+    },
+    {
+      "id": "aurora",
+      "name": "Aurora",
+      "type": "Experiencia web / restaurante",
+      "demoUrl": "https://aurora-restaurante.vercel.app/",
+      "localPath": "C:\\workbench\\- AURORA\\Propia\\project",
+      "stack": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "GSAP",
+        "Framer Motion",
+        "Lenis"
+      ],
+      "summary": "Experiencia web inmersiva para restaurante con narrativa visual, scroll fluido y motion guiado por UX."
+    },
+    {
+      "id": "kuro-atelier",
+      "name": "Kuro Atelier",
+      "type": "Landing premium / tattoo studio template",
+      "demoUrl": "https://landing-tattoo.vercel.app/",
+      "localPath": "C:\\workbench\\- TATTOO KENSHI",
+      "stack": [
+        "React",
+        "Vite",
+        "TypeScript",
+        "Tailwind CSS",
+        "shadcn/ui",
+        "Three.js",
+        "React Three Fiber",
+        "Framer Motion"
+      ],
+      "summary": "Landing premium para estudio de tatuajes con estetica dark luxury, escena 3D, portafolio visual, lightbox y contacto por WhatsApp."
+    },
+    {
+      "id": "portfolio-personal",
+      "name": "Portfolio personal",
+      "type": "Portafolio profesional",
+      "localPath": "C:\\workbench\\- Portfolio Marlon Ray\\Marlon-Portfolio",
+      "stack": [
+        "React",
+        "TypeScript",
+        "Vite",
+        "Tailwind CSS",
+        "GSAP",
+        "Framer Motion",
+        "Three.js",
+        "React Three Fiber",
+        "Express"
+      ],
+      "summary": "Sitio de presentacion profesional orientado a servicios, proyectos, identidad tecnica y capacidades visuales frontend."
+    }
+  ],
+  "updatedAt": "2026-07-10"
+}
