@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Raykel RayRay - Ingeniero Frontend UI" width="100%" />
+  <img src="./assets/banner.webp" alt="Raykel RayRay - Ingeniero Frontend UI" width="100%" />
 </p>
 
 <h1 align="center">Hola, soy Raykel “RayRay” 👋</h1>
