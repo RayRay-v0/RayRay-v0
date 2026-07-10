@@ -2,19 +2,19 @@
 
 ## Perfil
 
-Soy Ingeniero en Telecomunicaciones y Electronica, basado en La Habana, Cuba, enfocado en Frontend/UI Engineering.
+Soy Ingeniero en Telecomunicaciones y Electrónica, basado en La Habana, Cuba, enfocado en Frontend/UI Engineering.
 
-Construyo interfaces web rapidas, claras y bien disenadas con React, Next.js, TypeScript y motion cuando aporta al producto. Mi trabajo se centra en convertir ideas, ofertas y flujos comerciales en experiencias web funcionales: landing pages, catalogos, portafolios, frontends ecommerce y demos desplegadas.
+Construyo interfaces web rápidas, claras y bien diseñadas con React, Next.js, TypeScript y motion cuando aporta al producto. Mi trabajo se centra en convertir ideas, ofertas y flujos comerciales en interfaces funcionales: landing pages, catálogos, portafolios, frontends ecommerce y demos desplegadas.
 
-No trato el frontend como decoracion. Para mi incluye arquitectura de informacion, estado, accesibilidad, rendimiento, mantenibilidad y criterio visual.
+No trato el frontend como decoración. Para mí incluye arquitectura de información, estado, accesibilidad, rendimiento, mantenibilidad y criterio visual.
 
 ## Enfoque profesional
 
 - Interfaces que explican la oferta antes de intentar impresionar.
 - Componentes reutilizables y layouts responsive.
-- Motion con proposito: guiar, aclarar estados o mejorar la navegacion.
-- Flujos comerciales medibles: WhatsApp, checkout, formularios, catalogos y CTAs claros.
-- Sistemas pequenos y mantenibles, con datos tipados y estructura facil de extender.
+- Motion con propósito: guiar, aclarar estados o mejorar la navegación.
+- Flujos comerciales claros: WhatsApp, checkout, formularios, catálogos y CTAs visibles.
+- Sistemas pequeños y mantenibles, con datos tipados y estructura fácil de extender.
 
 ## Stack principal
 
@@ -39,30 +39,30 @@ No trato el frontend como decoracion. Para mi incluye arquitectura de informacio
 
 ### Frontends comerciales y landing pages
 
-He trabajado en interfaces para restaurantes, catering, academias de baile, estudios creativos, portafolios y catalogos de energia solar. El foco comun es convertir contenido en decisiones claras: entender la oferta, navegar sin friccion y contactar o comprar con pocos pasos.
+He trabajado en interfaces para restaurantes, catering, academias de baile, estudios creativos, portafolios y catálogos de energía solar. El foco común es ordenar la información para que el usuario entienda la oferta, navegue sin fricción y pueda contactar o comprar con pocos pasos.
 
 ### UI engineering y motion
 
-Implemento interfaces visuales con atencion al detalle, usando animaciones solo cuando ayudan al flujo. He trabajado con GSAP, Lenis, Framer Motion, Three.js y React Three Fiber en experiencias donde la capa visual debe aportar diferenciacion sin romper la claridad.
+Implemento interfaces visuales con atención al detalle, usando animaciones solo cuando ayudan al flujo. He trabajado con GSAP, Lenis, Framer Motion, Three.js y React Three Fiber en proyectos donde la capa visual debe aportar identidad sin romper la claridad.
 
 ### Ecommerce y flujos por WhatsApp
 
-He construido catalogos con busqueda, filtros, categorias, carrito, precios multidivisa y solicitudes por WhatsApp. Ese tipo de flujo exige mas que una pagina bonita: necesita estructura de datos, estados consistentes y mensajes claros para el cliente final.
+He construido catálogos con búsqueda, filtros, categorías, carrito, precios multidivisa y solicitudes por WhatsApp. Ese tipo de flujo exige más que una página visualmente correcta: necesita estructura de datos, estados consistentes y mensajes claros para el cliente final.
 
 ## Proyectos destacados
 
-- Renovables Cuba: catalogo de soluciones solares y energia de respaldo para hogares en Cuba.
-- Arca Ilary: sitio bilingue para catering con SEO estructurado y cotizacion por WhatsApp.
+- Renovables Cuba: catálogo de soluciones solares y energía de respaldo para hogares en Cuba.
+- Arca Ilary: sitio bilingüe para catering con SEO estructurado y cotización por WhatsApp.
 - Ritmo Habana: landing para clases de salsa con horarios, precios y contenido organizado desde datos.
-- Aurora: experiencia web inmersiva para restaurante con narrativa visual y motion.
+- Aurora: sitio para restaurante con narrativa visual, scroll fluido y animaciones.
 - Kuro Atelier: portafolio 3D para estudio creativo/tattoo usando WebGL.
-- Portfolio personal: sitio de presentacion profesional con enfoque frontend, motion y 3D.
+- Portfolio personal: sitio de presentación profesional con enfoque frontend, motion y 3D.
 
-## Formacion
+## Formación
 
-Ingenieria en Telecomunicaciones y Electronica.
+Ingeniería en Telecomunicaciones y Electrónica.
 
-Esa base tecnica influye en mi forma de trabajar: pensamiento sistemico, criterio de rendimiento, relacion senal-ruido y atencion a la estructura.
+Esa base técnica influye en mi forma de trabajar: pensamiento sistémico, criterio de rendimiento, relación señal-ruido y atención a la estructura.
 
 ## Disponibilidad
 
