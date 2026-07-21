@@ -16,7 +16,7 @@
   <a href="https://github.com/RayRay-v0">
     <img src="https://img.shields.io/badge/GitHub-RayRay--v0-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/raykel-vergara-ortiz-97459b421/?locale=en-US">
+  <a href="https://www.linkedin.com/in/raykel-v0/">
     <img src="https://img.shields.io/badge/LinkedIn-Raykel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="TU_PORTFOLIO">
