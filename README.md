@@ -184,6 +184,6 @@ Actualmente estoy enfocado en:
 ## Contacto
 
 - GitHub: [RayRay-v0](https://github.com/RayRay-v0)
-- Equipo: **MaRaBana-Tec**
+- Equipo: **DARVIA-dev**
 - Ubicación: La Habana, Cuba
 - Disponible para proyectos remotos freelance y part-time en Frontend/UI con alcance definido.
