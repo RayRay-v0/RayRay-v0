@@ -184,6 +184,6 @@ Actualmente estoy enfocado en:
 ## Contacto
 
 - GitHub: [RayRay-v0](https://github.com/RayRay-v0)
-- Equipo: **DARVIA-dev**
+- Equipo: [**DARVIA-dev**](https://darvia-dev.vercel.app/)
 - Ubicación: La Habana, Cuba
 - Disponible para proyectos remotos freelance y part-time en Frontend/UI con alcance definido.
