@@ -14,16 +14,16 @@
 
 <p align="center">
   <a href="https://github.com/RayRay-v0">
-    <img src="https://img.shields.io/badge/GitHub-RayRay--v0-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-RayRay--v0-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de GitHub de RayRay-v0" />
   </a>
   <a href="https://www.linkedin.com/in/raykel-v0/">
-    <img src="https://img.shields.io/badge/LinkedIn-Raykel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Raykel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil de LinkedIn de Raykel" />
   </a>
-  <a href="TU_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-Visitar-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://darvia-dev.vercel.app/">
+    <img src="https://img.shields.io/badge/DARVIA-Visitar-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Sitio del equipo DARVIA" />
   </a>
   <a href="mailto:rayray.vo99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar correo a RayRay" />
   </a>
 </p>
 
@@ -184,6 +184,8 @@ Actualmente estoy enfocado en:
 ## Contacto
 
 - GitHub: [RayRay-v0](https://github.com/RayRay-v0)
+- LinkedIn: [raykel-v0](https://www.linkedin.com/in/raykel-v0/)
+- Email: [rayray.vo99@gmail.com](mailto:rayray.vo99@gmail.com)
 - Equipo: [**DARVIA-dev**](https://darvia-dev.vercel.app/)
 - Ubicación: La Habana, Cuba
 - Disponible para proyectos remotos freelance y part-time en Frontend/UI con alcance definido.
