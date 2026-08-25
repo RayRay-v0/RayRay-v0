@@ -186,6 +186,6 @@ Actualmente estoy enfocado en:
 - GitHub: [RayRay-v0](https://github.com/RayRay-v0)
 - LinkedIn: [raykel-v0](https://www.linkedin.com/in/raykel-v0/)
 - Email: [rayray.vo99@gmail.com](mailto:rayray.vo99@gmail.com)
-- Equipo: [**DARVIA-dev**](https://darviastudio.com/)
+- Equipo: [**DARVIASTUDIO**](https://darviastudio.com/)
 - Ubicación: La Habana, Cuba
 - Disponible para proyectos remotos freelance y part-time en Frontend/UI con alcance definido.
