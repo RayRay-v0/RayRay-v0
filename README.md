@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/raykel-v0/">
     <img src="https://img.shields.io/badge/LinkedIn-Raykel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil de LinkedIn de Raykel" />
   </a>
-  <a href="https://darvia-dev.vercel.app/">
+  <a href="https://darviastudio.com/">
     <img src="https://img.shields.io/badge/DARVIA-Visitar-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Sitio del equipo DARVIA" />
   </a>
   <a href="mailto:rayray.vo99@gmail.com">
@@ -186,6 +186,6 @@ Actualmente estoy enfocado en:
 - GitHub: [RayRay-v0](https://github.com/RayRay-v0)
 - LinkedIn: [raykel-v0](https://www.linkedin.com/in/raykel-v0/)
 - Email: [rayray.vo99@gmail.com](mailto:rayray.vo99@gmail.com)
-- Equipo: [**DARVIA-dev**](https://darvia-dev.vercel.app/)
+- Equipo: [**DARVIA-dev**](https://darviastudio.com/)
 - Ubicación: La Habana, Cuba
 - Disponible para proyectos remotos freelance y part-time en Frontend/UI con alcance definido.
