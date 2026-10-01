@@ -56,6 +56,8 @@ He construido catálogos con búsqueda, filtros, categorías, carrito, precios m
 - Ritmo Habana: landing para clases de salsa con horarios, precios y contenido organizado desde datos.
 - Aurora: sitio para restaurante con narrativa visual, scroll fluido y animaciones.
 - Kuro Atelier: portafolio 3D para estudio creativo/tattoo usando WebGL.
+- Veriz Nails: web de reservas por WhatsApp para una manicurista en Centro Habana.
+- DiDi: tienda de amigurumis con catálogo, encargos a medida y carrito por WhatsApp.
 - Portfolio personal: sitio de presentación profesional con enfoque frontend, motion y 3D.
 
 ## Formación

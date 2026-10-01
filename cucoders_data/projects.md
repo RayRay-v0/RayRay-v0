@@ -80,6 +80,35 @@ Trabajo realizado:
 - Galería y portafolio visual.
 - Preparación para personalización por cliente.
 
+## Veriz Nails
+
+- Demo: https://veriz-nails-web.vercel.app/
+- Tipo: landing de reservas / estudio de uñas
+- Stack: Next.js, React, TypeScript, Tailwind CSS, GSAP
+
+Web para una manicurista independiente en Centro Habana: servicios con precio y duración, galería de su trabajo real, mapa con zonas a domicilio y un mensaje de WhatsApp ya escrito para cada servicio.
+
+Trabajo realizado:
+
+- Exportación estática sin backend.
+- Intro animada que se omite con movimiento reducido.
+- Reserva por WhatsApp con el servicio preseleccionado.
+- Datos estructurados y metadatos por página.
+
+## DiDi
+
+- Demo: https://amigurumi-store.vercel.app/
+- Tipo: tienda de artesanía / amigurumis
+- Stack: Vite, TypeScript, GSAP, CSS
+
+Tienda para un taller de crochet: doce personajes, catálogo con búsqueda y filtros, páginas de producto, encargos a medida y carrito que envía el pedido por WhatsApp.
+
+Trabajo realizado:
+
+- Catálogo, favoritos y carrito guardados en el navegador.
+- Animaciones con GSAP donde aportan.
+- Accesibilidad WCAG 2.2 AA como objetivo.
+
 ## Portfolio personal
 
 - Tipo: portafolio profesional

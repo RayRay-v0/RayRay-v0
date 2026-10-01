@@ -176,6 +176,22 @@
       "summary": "Landing para estudio de tatuajes con estética oscura, escena 3D, portafolio visual, lightbox y contacto por WhatsApp."
     },
     {
+      "id": "veriz-nails",
+      "name": "Veriz Nails",
+      "type": "Landing de reservas / estudio de uñas",
+      "demoUrl": "https://veriz-nails-web.vercel.app/",
+      "stack": ["Next.js", "React", "TypeScript", "Tailwind CSS", "GSAP"],
+      "summary": "Web para una manicurista en Centro Habana: servicios con precio y duración, galería de su trabajo, mapa de zonas a domicilio y reserva por WhatsApp con el servicio ya elegido."
+    },
+    {
+      "id": "didi-amigurumis",
+      "name": "DiDi",
+      "type": "Tienda de artesanía / amigurumis",
+      "demoUrl": "https://amigurumi-store.vercel.app/",
+      "stack": ["Vite", "TypeScript", "GSAP", "CSS"],
+      "summary": "Tienda de amigurumis hechos a mano con catálogo filtrable, páginas de producto, encargos a medida y carrito que termina en un mensaje de WhatsApp."
+    },
+    {
       "id": "portfolio-personal",
       "name": "Portfolio personal",
       "type": "Portafolio profesional",
@@ -193,5 +209,5 @@
       "summary": "Sitio de presentación profesional orientado a servicios, proyectos, criterio técnico y capacidades visuales frontend."
     }
   ],
-  "updatedAt": "2026-07-10"
+  "updatedAt": "2026-10-01"
 }
