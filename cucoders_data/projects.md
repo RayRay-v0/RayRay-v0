@@ -122,3 +122,19 @@ Trabajo realizado:
 - Estructura de contenido profesional.
 - Componentes visuales para presentar servicios y proyectos.
 - Integración de stack moderno para frontend interactivo.
+
+## FitEcosystem
+
+- Demo: https://fitecosystem-demo.vercel.app/
+- Código: https://github.com/RayRay-v0/fitecosystem-demo
+- Tipo: plataforma de entrenamiento y nutrición
+- Stack: Next.js, React, TypeScript, Tailwind CSS, TanStack Query
+
+Plataforma para entrenar y comer mejor: rutinas y planes de nutrición generados con reglas de seguridad, seguimiento de progreso, catálogo de entrenadores, nutricionistas y gimnasios, y paneles para profesionales y administración.
+
+Trabajo realizado:
+
+- Versión estática que corre sin backend: un enrutador en el navegador responde con las mismas rutas y formas JSON del API original.
+- Datos reales capturados del backend, anonimizados, y cambios guardados en localStorage.
+- Generadores de rutinas y de nutrición portados de Python a TypeScript, con pruebas de paridad.
+- Selector de perfil (usuario, entrenador, nutricionista, administración) en lugar de login.

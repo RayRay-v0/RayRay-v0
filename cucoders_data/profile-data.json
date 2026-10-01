@@ -192,6 +192,15 @@
       "summary": "Tienda de amigurumis hechos a mano con catálogo filtrable, páginas de producto, encargos a medida y carrito que termina en un mensaje de WhatsApp."
     },
     {
+      "id": "fitecosystem",
+      "name": "FitEcosystem",
+      "type": "Plataforma de entrenamiento y nutrición",
+      "demoUrl": "https://fitecosystem-demo.vercel.app/",
+      "repoUrl": "https://github.com/RayRay-v0/fitecosystem-demo",
+      "stack": ["Next.js", "React", "TypeScript", "Tailwind CSS", "TanStack Query"],
+      "summary": "Plataforma de entrenamiento y nutrición con generadores de rutinas y planes, progreso, catálogo de profesionales y paneles por rol. La demo estática corre sin backend: datos reales en JSON y cambios en localStorage."
+    },
+    {
       "id": "portfolio-personal",
       "name": "Portfolio personal",
       "type": "Portafolio profesional",

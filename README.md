@@ -149,6 +149,15 @@
 <p><a href="https://amigurumi-store.vercel.app/">Demo en vivo ↗</a></p>
 </td>
 </tr>
+<tr>
+<td colspan="2" width="100%" valign="top" align="left">
+<a href="https://fitecosystem-demo.vercel.app/"><img src="./assets/projects/fitecosystem-card-thumb.webp" alt="Vista previa del proyecto FitEcosystem" width="100%" /></a>
+<p><strong>FitEcosystem</strong></p>
+<p>Plataforma de entrenamiento y nutrición: rutinas y planes generados con reglas de seguridad, progreso, catálogo de profesionales y paneles por rol. La demo corre entera en el navegador, sin servidor.</p>
+<p>Next.js · React · TypeScript · Tailwind · TanStack Query</p>
+<p><a href="https://fitecosystem-demo.vercel.app/">Demo en vivo ↗</a> · <a href="https://github.com/RayRay-v0/fitecosystem-demo">Código ↗</a></p>
+</td>
+</tr>
 </table>
 
 ---
