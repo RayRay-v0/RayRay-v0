@@ -201,6 +201,14 @@
       "summary": "Plataforma de entrenamiento y nutrición con generadores de rutinas y planes, progreso, catálogo de profesionales y paneles por rol. La demo estática corre sin backend: datos reales en JSON y cambios en localStorage."
     },
     {
+      "id": "yam",
+      "name": "YAM",
+      "type": "App privada para parejas (PWA)",
+      "demoUrl": "https://yam-ten-liard.vercel.app/",
+      "stack": ["React", "Vite", "TypeScript", "Tailwind CSS", "Supabase"],
+      "summary": "Espacio privado para parejas con dinámica D/s: acuerdo con versiones y doble firma, tareas con prueba en foto, economía de puntos, recompensas y castigos, chat y una pausa de seguridad siempre gratis. PWA instalable en español e inglés, solo +18."
+    },
+    {
       "id": "portfolio-personal",
       "name": "Portfolio personal",
       "type": "Portafolio profesional",

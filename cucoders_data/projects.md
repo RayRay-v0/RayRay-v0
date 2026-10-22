@@ -138,3 +138,19 @@ Trabajo realizado:
 - Datos reales capturados del backend, anonimizados, y cambios guardados en localStorage.
 - Generadores de rutinas y de nutrición portados de Python a TypeScript, con pruebas de paridad.
 - Selector de perfil (usuario, entrenador, nutricionista, administración) en lugar de login.
+
+## YAM
+
+- Demo: https://yam-ten-liard.vercel.app/
+- Tipo: app privada para parejas (PWA)
+- Stack: React, Vite, TypeScript, Tailwind CSS, Supabase
+
+Espacio privado para parejas que viven una dinámica D/s: acuerdo firmado por ambos, tareas del día con prueba en foto, puntos, recompensas, castigos, chat y diario. Instalable, pensada primero para el móvil, en español e inglés y solo para mayores de 18 años.
+
+Trabajo realizado:
+
+- Acuerdo con versiones: cada cambio se muestra como diferencia y solo entra en vigor cuando los dos vuelven a firmar.
+- Datos sensibles protegidos con RLS en Postgres y fotos de prueba en almacenamiento privado tras enlaces firmados que caducan.
+- Sincronización en tiempo real entre los dos móviles y notificaciones push que nunca muestran el contenido.
+- Pausa de seguridad, exportación y borrado de cuenta reales, sin muro de pago.
+- Prueba automática que recorre el ciclo completo contra la nube real.

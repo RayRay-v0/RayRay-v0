@@ -59,6 +59,7 @@ He construido catálogos con búsqueda, filtros, categorías, carrito, precios m
 - Veriz Nails: web de reservas por WhatsApp para una manicurista en Centro Habana.
 - DiDi: tienda de amigurumis con catálogo, encargos a medida y carrito por WhatsApp.
 - FitEcosystem: plataforma de entrenamiento y nutrición con generadores de planes, publicada como demo estática sin backend.
+- YAM: PWA privada para parejas con acuerdo versionado, tareas con prueba en foto y economía de puntos sobre Supabase.
 - Portfolio personal: sitio de presentación profesional con enfoque frontend, motion y 3D.
 
 ## Formación
