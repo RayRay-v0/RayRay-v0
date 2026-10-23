@@ -135,14 +135,14 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://veriz-nails-web.vercel.app/"><img src="./assets/projects/veriz-nails-card-thumb.webp?v=2" alt="Vista previa del proyecto Veriz Nails" width="100%" /></a>
+<a href="https://veriz-nails-web.vercel.app/"><img src="./assets/projects/veriz-nails-card-thumb.webp?v=3" alt="Vista previa del proyecto Veriz Nails" width="100%" /></a>
 <p><strong>Veriz Nails</strong></p>
 <p>Web para una manicurista en Centro Habana: servicios con precio y duración, galería de su trabajo y reserva por WhatsApp con el servicio ya elegido.</p>
 <p>Next.js · React · TypeScript · Tailwind · GSAP</p>
 <p><a href="https://veriz-nails-web.vercel.app/">Demo en vivo ↗</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://amigurumi-store.vercel.app/"><img src="./assets/projects/didi-card-thumb.webp?v=2" alt="Vista previa del proyecto DiDi" width="100%" /></a>
+<a href="https://amigurumi-store.vercel.app/"><img src="./assets/projects/didi-card-thumb.webp?v=3" alt="Vista previa del proyecto DiDi" width="100%" /></a>
 <p><strong>DiDi</strong></p>
 <p>Tienda de amigurumis hechos a mano con catálogo filtrable, encargos a medida y un carrito que termina en un mensaje de WhatsApp.</p>
 <p>Vite · TypeScript · GSAP · Checkout por WhatsApp</p>
@@ -151,14 +151,14 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://fitecosystem-demo.vercel.app/"><img src="./assets/projects/fitecosystem-card-thumb.webp?v=2" alt="Vista previa del proyecto FitEcosystem" width="100%" /></a>
+<a href="https://fitecosystem-demo.vercel.app/"><img src="./assets/projects/fitecosystem-card-thumb.webp?v=3" alt="Vista previa del proyecto FitEcosystem" width="100%" /></a>
 <p><strong>FitEcosystem</strong></p>
 <p>Plataforma de entrenamiento y nutrición: rutinas y planes generados con reglas de seguridad, progreso, catálogo de profesionales y paneles por rol. La demo corre entera en el navegador, sin servidor.</p>
 <p>Next.js · React · TypeScript · Tailwind · TanStack Query</p>
 <p><a href="https://fitecosystem-demo.vercel.app/">Demo en vivo ↗</a> · <a href="https://github.com/RayRay-v0/fitecosystem-demo">Código ↗</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://yam-ten-liard.vercel.app/"><img src="./assets/projects/yam-card-thumb.webp?v=2" alt="Vista previa del proyecto YAM" width="100%" /></a>
+<a href="https://yam-ten-liard.vercel.app/"><img src="./assets/projects/yam-card-thumb.webp?v=3" alt="Vista previa del proyecto YAM" width="100%" /></a>
 <p><strong>YAM</strong></p>
 <p>App privada para parejas con dinámica D/s: acuerdo con versiones, tareas con prueba en foto, puntos, recompensas y una pausa de seguridad siempre a mano. PWA bilingüe, +18.</p>
 <p>React · Vite · TypeScript · Tailwind · Supabase</p>
